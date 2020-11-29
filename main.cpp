@@ -1,0 +1,8 @@
+#include "AudioBook.hpp"
+#include "DoubleNode.hpp"
+#include "PlaylistItem.hpp"
+#include "Podcast.hpp"
+#include "Song.hpp"
+#include "AudioBook.cpp"
+#include "Playlist.hpp"
+#include "DoublyLinkedList.hpp"
